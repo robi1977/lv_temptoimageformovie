@@ -1,0 +1,9 @@
+Program pozwala wstawiæ do zdjêæ z próby skalê z temperatur¹.
+W celu wstawienia skali nale¿y przygotowaæ plik z temperaturami. W Pico Player otworzyæ dany plik, zaznaczyæ wszystkie temperatury i zapisaæ jako plik txt. Przyk³adowy plik znajduje siê w katalogu "Przyk³ady".
+w jednym foldereze zgromadziæ wszystkie zdjêcia z próby do których ma byæ wstawiona skala.
+upweniæ siê ¿e w folderze przed odpaleniem programiku nie ma innych folderów.
+
+Odpaliæ program. 
+Wskazaæ folder za zdjêciami poprzez otwarcie go i klikniêcie przycisku "Current Folder".
+Wskazaæ plik z temperaturami poprzez otwarcie go.
+i grzecznie czekaæ, a¿ siê zakoñczy proces.
